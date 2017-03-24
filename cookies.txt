@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.getgiftcards.org	TRUE	/	FALSE	1999999999	__cfduid	d67af5f4d3939ac3b76927e3e1396abce1485444885
+
